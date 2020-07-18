@@ -1,2 +1,1 @@
-#molecular imprinting data-analysis
-Analyse Raman spectra from gold substrates
+#molecular imprinting data-analysis: Raman spectra from functionalised gold substrates
